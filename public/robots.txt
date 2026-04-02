@@ -1,0 +1,21 @@
+# Lunar Community - Robots.txt
+# https://lunarid.vercel.app/
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://lunarid.vercel.app/sitemap.xml
+
+# Crawl-delay (optional, polite crawling)
+Crawl-delay: 1
+
+# Block common bots that don't need access
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /

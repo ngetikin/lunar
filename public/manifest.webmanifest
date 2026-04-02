@@ -1,0 +1,20 @@
+{
+  "name": "Lunar Community",
+  "short_name": "Lunar",
+  "description": "A chill and creative online community where people connect, share ideas, and grow together.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#1A1A1A",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/lunar.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["social", "community"],
+  "lang": "en-US"
+}
