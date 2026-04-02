@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://lunarid.vercel.app/lunar.png" alt="Lunar Community" width="100%" />
-  
   <h1>Lunar Community</h1>
   <p><em>A Space to Create & Connect</em></p>
   
